@@ -50,7 +50,7 @@ This project focuses on developing comprehensive business intelligence reports t
 ## 🔗 Report Links
 - [AtliQ Hardware's Customer Performance](https://github.com/Yogesh-Kurane/AtliQ-Hardware-Analysis/blob/main/AtliQ%20Hardware's%20Customer%20Performance.pdf)  
 - [AtliQ Hardware's Market Performance](https://github.com/Yogesh-Kurane/AtliQ-Hardware-Analysis/blob/main/AtliQ%20Hardware's%20Market%20Performance.pdf)  
-- [Profit & Loss by Fiscal Year and Month](#)  
+- [AtliQ Hardware's Profit & Loss Statement by Markets](https://github.com/Yogesh-Kurane/AtliQ-Hardware-Analysis/blob/main/AtliQ%20Hardware's%20P%20%26%20L%20Statement%20by%20Markets.pdf)  
 - [Profit & Loss by Market](#)
 
 ---
