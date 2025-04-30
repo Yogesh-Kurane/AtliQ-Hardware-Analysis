@@ -1,4 +1,4 @@
-## 📊 AtliQ-Hardware-Analysis 
+## 📊 AtliQ-Hardware-Analysis (Excel, Pivot Table, Power Query)
 
 ## 🚀 Project Overview
 This project focuses on developing comprehensive business intelligence reports that deliver actionable insights into sales, customer performance, market trends, and financial health. Designed with both technical depth and strategic clarity, the reports provide a data-driven foundation for decision-making.
