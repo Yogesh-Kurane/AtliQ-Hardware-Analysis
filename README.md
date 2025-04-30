@@ -60,3 +60,6 @@ This project focuses on developing comprehensive business intelligence reports t
 This project was a significant step in my journey as a data professional. It not only strengthened my technical foundations but also enhanced my ability to think strategically and communicate insights effectively. I’m excited to carry forward these skills into future opportunities.
 
 ---
+
+## 📩 Contact & Feedback  
+**[LinkedIn](https://www.linkedin.com/in/yogeshkurane/)**  
