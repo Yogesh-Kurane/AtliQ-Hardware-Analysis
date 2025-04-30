@@ -48,7 +48,7 @@ This project focuses on developing comprehensive business intelligence reports t
 ---
 
 ## 🔗 Report Links
-- [Customer Performance Report](#)  
+- [AtliQ Hardware's Customer Performance](https://github.com/Yogesh-Kurane/AtliQ-Hardware-Analysis/blob/main/AtliQ%20Hardware's%20Customer%20Performance.pdf)  
 - [Market Performance vs. Sales Targets Report](#)  
 - [Profit & Loss by Fiscal Year and Month](#)  
 - [Profit & Loss by Market](#)
